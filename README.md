@@ -2,7 +2,7 @@ Ethereum DApp for a bank appointment system using web3.js
 
 Allows booking/canceling appointments and uses digital signatures for document signing/verification.
 
-# Simulating a ethereum node locally
+# Simulating an ethereum node locally
 
 1. Install the prerequisite software: you’ll need to download and install Node.js from https:
 //nodejs.org/en/. Choose the LTS version (the one on the left).
